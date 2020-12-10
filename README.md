@@ -1,5 +1,5 @@
 # StockForcastor
-Currently working on 'Stock Market Predictions with LSTM in Python'
+'Stock Market Predictions with LSTM in Python'
 Discover Long Short-Term Memory (LSTM) networks in Python and how you can use them to make stock market predictions!
 
 
